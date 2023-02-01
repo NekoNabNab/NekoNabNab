@@ -1,4 +1,4 @@
-### Hi there, I'm Nabila Rozan Humairoh 👋
+### Hi there, <b> I'm Nabila Rozan Humairoh </b> 👋
 
 ### and here is my stats
 
@@ -10,8 +10,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m having interent into design and front-end web develope
-- 🌱 I'm from Malang, East Java, Indonesia
+- 🔭 I’m having interent into <b> design and front-end web develope </b>
+- 🌱 I'm from <b> Malang, East Java, Indonesia </b>
 - 📫 Reach me on: <br>
  rozanncreative@gmail.com <br>
  https://www.instagram.com/rozan_creative_/ <br>
