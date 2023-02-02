@@ -1,4 +1,4 @@
-### Hi there, <b> I'm Nabila Rozan Humairoh </b> 👋
+### Hi there, <b> I'm Nabila Rozan</b> 👋
 
 ### and here is my stats
 
